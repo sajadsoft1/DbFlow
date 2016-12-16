@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DbFlow</string>
+    <string name="save_single">保存一条</string>
+    <string name="save_list">保存多条</string>
+    <string name="read_single">读取一条</string>
+    <string name="read_list">读取多条</string>
+</resources>
